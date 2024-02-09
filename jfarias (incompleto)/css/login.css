@@ -1,0 +1,119 @@
+@font-face {
+    font-family: lato;
+    src: url(fonts/Lato-Light.ttf);
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(fonts/Poppins-Light.ttf);
+}
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*  ---  Navbar --- */
+.navbar{
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.253);
+}
+
+.nav-item{
+    margin-right: 15px;
+    
+}
+
+.navbar-button{
+    color: white !important;
+}
+
+#msg{
+    color: white !important;
+}
+
+.sair_btn{
+    padding: 5px 25px;
+    border-radius: 10px;
+    border: none;
+}
+
+/*  --- hero ---   */
+
+.hero{    
+    background-color: rgb(209, 209, 209);
+    min-height: 100vh;
+    position: relative;
+}
+
+/*  --- Inicio  ---  */
+
+.profile_sidebar{
+    min-height: 80vh !important;
+}
+
+.sidebar{
+    height: 100% !important;
+}
+
+.btn_sidebar{
+    width: 50%;
+    margin: 10px 0px;
+    border: none;
+    padding: 10px 0;
+    border-radius: 25px;
+    background-color: #ffb325;
+    color: white;
+    font-size: 18px;
+    transition: 0s !important;
+}
+
+.btn_sidebar:hover{
+    background-color: #ad7814;
+    color: white;
+}
+
+.btn_editar{
+    width: 15%;
+    margin: 10px 0px;
+    border: none;
+    padding: 10px 0;
+    border-radius: 25px;
+    background-color: #ffb325;
+    color: white;
+    font-size: 18px;
+    transition: 0s !important;
+}
+
+.btn_editar:hover{
+    background-color: #ad7814;
+    color: white;
+}
+
+.card-body{
+    margin-top: 100px !important;
+}
+
+/*  ---  Back to top ---  */
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    background-color: rgb(230, 230, 230) !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+/* --- Noticias --- */
+
+.cada_not{
+    min-height: 400px;
+    background-color: rgb(63, 63, 63) !important;
+}
+
+

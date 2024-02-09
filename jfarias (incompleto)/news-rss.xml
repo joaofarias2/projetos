@@ -1,0 +1,184 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<atom:link href="https://www.zdnet.com/news/rss.xml" rel="self" type="application/rss+xml"/>
+<title>Latest news</title>
+<description>Most recent news</description>
+<language>en</language>
+<link>https://www.zdnet.com/</link>
+<copyright>© 2023 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.</copyright>
+<pubDate>Thu, 07 Sep 2023 23:14:18 +0000</pubDate>
+<lastBuildDate>Thu, 07 Sep 2023 23:14:18 +0000</lastBuildDate>
+<generator>ZDNET</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<ttl>2</ttl>
+<image>
+<url>https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-144x144.png</url>
+<link>https://www.zdnet.com/</link>
+<title>Latest news</title>
+<width>144</width>
+<height>144</height>
+</image>
+<category>Technology</category>
+<item>
+<guid isPermaLink="false">21fe2e1d-951b-4b35-9d71-28832a3a8952</guid>
+<link>https://www.zdnet.com/article/were-not-ready-for-the-impact-of-generative-ai-on-elections/#ftag=RSSbaffb68</link>
+<title>We're not ready for the impact of generative AI on elections</title>
+<description>ZDNET's resident presidential scholar takes a deep dive into political campaign deepfakes in the time of generative AI. This affects much more than the national contests. AI will transform local politics, too.</description>
+<pubDate>Thu, 07 Sep 2023 22:39:00 +0000</pubDate>
+<media:credit role="author">David Gewirtz</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">4d2f7697-18e8-4cb2-8b4b-3bd6b427e7b0</guid>
+<link>https://www.zdnet.com/article/youtube-adding-longer-ad-breaks-for-tv-viewers-removing-some-creator-ad-control/#ftag=RSSbaffb68</link>
+<title>YouTube adding longer ad breaks for TV viewers, removing some creator ad control</title>
+<description>If you watch YouTube on your television or you're a YouTube content creator, you'll notice some changes soon.</description>
+<pubDate>Thu, 07 Sep 2023 20:48:20 +0000</pubDate>
+<media:credit role="author">Artie Beaty</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">0dc07fd6-ff31-4a1a-946b-80e3446f2587</guid>
+<link>https://www.zdnet.com/article/google-wants-to-remind-you-that-the-pixel-8-exists-ahead-of-next-weeks-iphone-15-event/#ftag=RSSbaffb68</link>
+<title>Google wants to remind you that the Pixel 8 exists ahead of next week's iPhone 15 event</title>
+<description>A number of 'leaks' over the past week has led to an official preview of the upcoming Google Pixel phones and smartwatch.</description>
+<pubDate>Thu, 07 Sep 2023 20:11:27 +0000</pubDate>
+<media:credit role="author">June Wan</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">64d4089e-5f63-436f-be60-eedd4520fcb3</guid>
+<link>https://www.zdnet.com/article/best-blood-pressure-watch/#ftag=RSSbaffb68</link>
+<title>The best blood pressure watches of 2023</title>
+<description>ZDNET examined research from Harvard Medical School and considered FDA clearance to find the best blood pressure watches available now.</description>
+<pubDate>Thu, 07 Sep 2023 20:07:07 +0000</pubDate>
+<media:credit role="author">Sherin Shibu</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">4ad0df5d-e1f4-44a6-8996-1f62950ac89c</guid>
+<link>https://www.zdnet.com/home-and-office/networking/google-chrome-is-getting-a-fresh-look-for-its-15th-birthday/#ftag=RSSbaffb68</link>
+<title>Google Chrome is getting a fresh look for its 15th birthday</title>
+<description>The Material You redesign is finally coming to the desktop version of Chrome.</description>
+<pubDate>Thu, 07 Sep 2023 19:03:35 +0000</pubDate>
+<media:credit role="author">Artie Beaty</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">f313209f-cf9a-4d63-9c1a-2cf8214c8fe4</guid>
+<link>https://www.zdnet.com/article/the-apple-products-you-shouldnt-buy-this-month/#ftag=RSSbaffb68</link>
+<title>The Apple products you shouldn't buy this month: September 2023 edition</title>
+<description>Don't waste your money. Check this list before you shop.</description>
+<pubDate>Thu, 07 Sep 2023 18:48:00 +0000</pubDate>
+<media:credit role="author">Adrian Kingsley-Hughes</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">150f4d1e-4971-4566-86df-494b313dd0df</guid>
+<link>https://www.zdnet.com/home-and-office/kitchen-household/best-robot-vacuum-mop/#ftag=RSSbaffb68</link>
+<title>The best robot vacuum mops of 2023: Expert tested and reviewed</title>
+<description>We went hands-on with the best robot vacuum and mop combos from iRobot, Roborock, and more, to see which ones clean the best (and are worth your money).</description>
+<pubDate>Thu, 07 Sep 2023 18:44:00 +0000</pubDate>
+<media:credit role="author">Elizabeth Mauder</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">01ea4ec0-e01f-41d2-a05d-b8887ec9b59a</guid>
+<link>https://www.zdnet.com/home-and-office/home-entertainment/best-streaming-service-for-nfl/#ftag=RSSbaffb68</link>
+<title>The best streaming services for NFL of 2023</title>
+<description>Football season is officially here. Stream NFL games at home with the top streaming services for the NFL, including YouTube TV, Amazon Prime, ESPN+, and Fubo.</description>
+<pubDate>Thu, 07 Sep 2023 18:44:00 +0000</pubDate>
+<media:credit role="author">Lena Borrelli</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">23c8cc6c-d9ac-4c03-9737-0ee694df6021</guid>
+<link>https://www.zdnet.com/article/apple-updates-iphone-apple-watch-and-mac-with-rare-last-minute-bug-fixes/#ftag=RSSbaffb68</link>
+<title>Apple updates iPhone, Apple Watch, and Mac with rare last-minute bug fixes</title>
+<description>The latest updates should be the last ones before Apple releases new OS versions later this month.</description>
+<pubDate>Thu, 07 Sep 2023 18:43:58 +0000</pubDate>
+<media:credit role="author">Lance Whitney</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">3d04e701-e02e-4f07-b91a-86712b9979a2</guid>
+<link>https://www.zdnet.com/article/google-to-require-political-ads-to-reveal-if-theyre-ai-generated/#ftag=RSSbaffb68</link>
+<title>Google to require political ads to reveal if they're AI-generated</title>
+<description>Starting this fall, AI-generated political ads that appear on a Google platform must disclose to users if they contain 'synthetic' content.</description>
+<pubDate>Thu, 07 Sep 2023 18:22:11 +0000</pubDate>
+<media:credit role="author">Lance Whitney</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">c98a6a23-4e87-40e5-9c6a-52a364f02d70</guid>
+<link>https://www.zdnet.com/article/best-kids-phone/#ftag=RSSbaffb68</link>
+<title>The best phones for kids in 2023: Expert tested and reviewed</title>
+<description>Want to give your child some freedom but still remain connected? The best kids' phones have strong performance, location-tracking technology, and fantastic battery life.</description>
+<pubDate>Thu, 07 Sep 2023 17:55:54 +0000</pubDate>
+<media:credit role="author">Jason Cipriani</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">963e32cf-0e13-468a-948d-b817b6938ddc</guid>
+<link>https://www.zdnet.com/article/tiktok-quietly-added-a-fast-forward-option-and-its-a-game-changer/#ftag=RSSbaffb68</link>
+<title>TikTok quietly added a fast-forward option, and it's a game-changer</title>
+<description>Tired of sitting through lengthy intros or long TikToks? Now you won't have to.</description>
+<pubDate>Thu, 07 Sep 2023 17:39:21 +0000</pubDate>
+<media:credit role="author">Sabrina Ortiz</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">7f29acce-55ae-4a05-99a4-ad73a08d2b6b</guid>
+<link>https://www.zdnet.com/article/best-fitness-ring/#ftag=RSSbaffb68</link>
+<title>The best fitness rings of 2023: Oura, Evie, and more</title>
+<description>These top fitness rings are subtler and lighter than your average smartwatch.</description>
+<pubDate>Thu, 07 Sep 2023 17:31:06 +0000</pubDate>
+<media:credit role="author">Allison Murray</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">a1d5a1bf-01ca-4864-8909-ea60c61a5d22</guid>
+<link>https://www.zdnet.com/article/apple-is-reportedly-throwing-millions-of-dollars-a-day-into-ai-development/#ftag=RSSbaffb68</link>
+<title>Apple is reportedly throwing millions of dollars a day into AI development</title>
+<description>The tech giant appears to have a multi-pronged approach to catch up with the generative AI boom.</description>
+<pubDate>Thu, 07 Sep 2023 16:18:54 +0000</pubDate>
+<media:credit role="author">Maria Diaz</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">72334024-5b38-42ff-96a5-7c31a7eed72e</guid>
+<link>https://www.zdnet.com/article/ai-is-great-at-coding-but-there-are-some-massive-caveats/#ftag=RSSbaffb68</link>
+<title>AI is great at coding, but there are some massive caveats</title>
+<description>GitLab survey reveals technologists' anxiety about AI's intellectual property and security implications.</description>
+<pubDate>Thu, 07 Sep 2023 16:11:47 +0000</pubDate>
+<media:credit role="author">Joe McKendrick</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">5364bcf7-4743-4a66-bff4-d6a9b60f25e5</guid>
+<link>https://www.zdnet.com/article/anthropic-unveils-claude-pro-a-paid-subscription-plan-for-its-chatgpt-rival/#ftag=RSSbaffb68</link>
+<title>Anthropic unveils Claude Pro, a paid subscription plan for its ChatGPT rival</title>
+<description>Here's what a Claude Pro subscription plan costs, what it gets you, and how to sign up.</description>
+<pubDate>Thu, 07 Sep 2023 16:05:24 +0000</pubDate>
+<media:credit role="author">Sabrina Ortiz</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">9c113123-4efd-4232-b07e-9fb31962fc76</guid>
+<link>https://www.zdnet.com/education/learn-windows-powershell-for-just-20/#ftag=RSSbaffb68</link>
+<title>Learn Windows PowerShell for just $20</title>
+<description>Prepare for a career as a Windows system administrator by learning PowerShell and scripting with this six-course bundle.</description>
+<pubDate>Thu, 07 Sep 2023 15:57:55 +0000</pubDate>
+<media:credit role="author"> StackCommerce</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">3e461f94-cab5-442a-8d33-70627ec5e1f7</guid>
+<link>https://www.zdnet.com/article/androids-september-security-update-fixes-zero-day-currently-under-attack-and-more/#ftag=RSSbaffb68</link>
+<title>Android's September security update fixes actively exploited zero-day and more</title>
+<description>A high-severity vulnerability is being patched in the soon-to-be-released September Android security update, along with critical vulnerabilities. Here's what you need to know.</description>
+<pubDate>Thu, 07 Sep 2023 15:51:34 +0000</pubDate>
+<media:credit role="author">Jack Wallen</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">495e4ecd-faeb-46ee-861d-e5055068b09c</guid>
+<link>https://www.zdnet.com/education/learn-how-to-turn-your-computer-into-a-music-studio-with-ableton-live-training/#ftag=RSSbaffb68</link>
+<title>Learn how to turn your computer into a music studio with Ableton Live training</title>
+<description>For $60, get a lifetime subscription to the Noiselab Music Production Hub to learn essential Ableton Live skills and tools and connect with a community of professionals.</description>
+<pubDate>Thu, 07 Sep 2023 15:50:55 +0000</pubDate>
+<media:credit role="author"> StackCommerce</media:credit>
+</item>
+<item>
+<guid isPermaLink="false">56f70e51-0023-4adc-90bd-0c676db8b924</guid>
+<link>https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/#ftag=RSSbaffb68</link>
+<title>Microsoft to reveal AI plans for OneDrive in October event</title>
+<description>Mark your calendar if you want a "sneak peek" at how AI will fuel new search, sharing, and queries for your OneDrive files.</description>
+<pubDate>Thu, 07 Sep 2023 15:23:36 +0000</pubDate>
+<media:credit role="author">Lance Whitney</media:credit>
+</item>
+</channel>
+</rss>
