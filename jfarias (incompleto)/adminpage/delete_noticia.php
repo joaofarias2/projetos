@@ -1,5 +1,4 @@
 <?php
-//deletes noticia by id using PDO
 declare(strict_types=1);
 
 require_once '../include/utils.inc.php';

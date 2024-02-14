@@ -9,12 +9,6 @@ if ($userData['user_role'] !== 'admin') {
     header("Location: index.php");  
 } 
 
-$stmt = $pdo->query("SELECT * FROM tbl_utilizadores");
-$users = $stmt->fetchAll(PDO::FETCH_ASSOC);
-
-if(empty($userData['user_morada'])){
-    $usermorada = 'N/A';
-}
 ?>
 
 <!DOCTYPE html>
@@ -49,11 +43,7 @@ if(empty($userData['user_morada'])){
                         <td><?php echo $user['user_id']; ?></td>
                         <td><?php echo $user['user_name']; ?></td>
                         <td><?php echo $user['user_email']; ?></td>
-                        <td><?php if(empty($user['user_morada'])){
-                                        echo 'N/A';
-                                    } else {
-                                        echo $user['user_morada'];
-                                    } ; ?></td>
+                        <td><?php  ?></td>
                         <td>
                             <a href="edit_user.php?id=<?php echo $user['user_id']; ?>" class="btn btn-info">Editar</a>
                             <a href="delete_user.php?id=<?php echo $user['user_id']; ?>" class="btn btn-danger">Apagar</a>

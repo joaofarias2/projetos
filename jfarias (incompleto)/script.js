@@ -325,6 +325,8 @@ $('#username, #password').on('input', function () {
       $('.login_btn').removeClass('enabled').prop('disabled', true);
   }
 });
+
+
 })
 
 function validateSignup(){

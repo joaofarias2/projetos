@@ -15,8 +15,7 @@ if(isset($_GET['id'])){
     $userId = $_GET['id'];
     $userData = get_user_by_id($pdo, $userId);
  
-} else {
-  
+} else {  
     $userData = get_user($pdo, $_SESSION['user_id']);
     $userId = $userData['user_id'];
 }
@@ -46,10 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['nome'])) {
         if(is_email_registered($pdo, $email, $userData['user_id'])){
             $error = "Email já registado";
         }
-    }
-
-
-    
+    }   
     
 
     if($error == ""){

@@ -11,7 +11,7 @@ if ($userData['user_role'] !== 'admin') {
 
 $stmt = $pdo->query("SELECT * FROM tbl_noticias");
 $noticias = $stmt->fetchAll(PDO::FETCH_ASSOC);
-$contador = 0;
+
 
 $stmt2 = $pdo->query("SELECT * FROM tbl_noticias ORDER BY id_noticias DESC LIMIT 4");
 $lastNot = $stmt2->fetchAll(PDO::FETCH_ASSOC);
@@ -20,7 +20,7 @@ $lastNot = $stmt2->fetchAll(PDO::FETCH_ASSOC);
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <?php include '../include/admin_header.php'; ?>
 
 <body>
@@ -56,20 +56,26 @@ $lastNot = $stmt2->fetchAll(PDO::FETCH_ASSOC);
                 <?php endforeach; ?>
               </tbody>
             </table>
+            <a href="inserir_noticia.php" class="btn btn-info" style="width: 200px;">Inserir Noticia</a>
           </div>
           <div class="container-fluid noticias mt-5">
                 <div class="row align-items-start">
-          <?php foreach ($lastNot as $lastNoticias): ?>          
-                <div class="cada_not col-md-3">
-                    <?php echo $lastNoticias['noticias_titulo']; ?>
-                </div>          
-          <?php endforeach; ?>
+                <?php foreach ($lastNot as $noticia): ?>
+                        <div class="col-md-3">
+                            <div class="card">                              
+                                <img src="../uploads/<?php echo $noticia['noticias_imagem']; ?>" class="card-img-top" alt="imagem noticia">
+                                <div class="card-body">
+                                    <h5 class="card-title"><?php echo $noticia['noticias_titulo']; ?></h5>
+                                    <p class="card-text"><?php echo $noticia['noticias_texto']; ?></p>
+                                    <button class="btn btn-primary view-notice" data-target="<?php echo $noticia['id_noticias'];?>">Ver Noticia</button>
+                                </div>
+                            </div>
+                        </div>                                                
+                    <?php endforeach; ?>
+                    <div id="content_noticia"></div>
+
                 </div>
-          </div>
-      </div>
-
-   </div>
+            </div>
 </section>
-
 </body>
 </html>
