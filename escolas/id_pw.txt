@@ -1,0 +1,4 @@
+ID: admin	
+PW: admin
+
+O ID é sempre igual a Password
