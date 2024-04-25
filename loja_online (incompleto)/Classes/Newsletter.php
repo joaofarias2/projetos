@@ -52,12 +52,12 @@ class Newsletter
             $mailer->isSMTP();
             $mailer->Host = 'smtp.gmail.com';
             $mailer->SMTPAuth = true;
-            $mailer->Username = 'testeparamercadinho@gmail.com'; 
-            $mailer->Password = 'vnnz tctv escy gzep'; 
+            $mailer->Username = ''; 
+            $mailer->Password = ''; 
             $mailer->SMTPSecure = 'tls';
             $mailer->Port = 587;
 
-            $mailer->setFrom('testeparamercadinho@gmail.com', 'Mercadinho');
+            $mailer->setFrom('', 'Mercadinho');
             $mailer->addAddress($email);
             $mailer->Subject = 'Newsletter Subscription';
             $mailer->Body = 'Thank you for subscribing to our newsletter!';

@@ -28,13 +28,13 @@ class EmailSender
             $this->mailer->isSMTP();
             $this->mailer->Host = 'smtp.gmail.com';
             $this->mailer->SMTPAuth = true;
-            $this->mailer->Username = 'testeparamercadinho@gmail.com'; 
-            $this->mailer->Password = 'vnnz tctv escy gzep'; 
+            $this->mailer->Username = ''; 
+            $this->mailer->Password = ''; 
             $this->mailer->SMTPSecure = 'tls';
             $this->mailer->Port = 587;
 
             
-            $this->mailer->setFrom('testeparamercadinho@gmail.com', 'Mercadinho');
+            $this->mailer->setFrom('', 'Mercadinho');
             $this->mailer->Subject = 'Newsletter Subscription';
             $this->mailer->Body = 'Thank you for subscribing to our newsletter!';
 
